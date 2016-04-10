@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PayrollGUI()
+comment1.params=
+comment1.target=void\ panel1()
+comment2.params=rs
+comment2.target=void\ getResults(java.sql.ResultSet)
+numComments=3

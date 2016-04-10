@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=gui
+comment0.target=EmpHandler(AddEmpGUI)
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=thing
+comment2.target=void\ doStuff(javax.swing.JTextField)
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=rs
+comment0.target=ParseResultSet(java.sql.ResultSet)
+comment1.params=
+comment1.target=void\ parseHeading()
+comment2.params=
+comment2.target=void\ parseRows()
+comment3.params=
+comment3.target=java.util.Vector\ getRow()
+comment4.params=
+comment4.target=java.util.Vector\ getColHeadings()
+comment5.params=
+comment5.target=java.util.Vector\ getRows()
+numComments=6

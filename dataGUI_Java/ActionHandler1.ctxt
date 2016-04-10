@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=empGUI
+comment0.target=ActionHandler1(EmpDataGUI)
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=2

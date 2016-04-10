@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ initialize()
+comment1.params=query
+comment1.target=java.sql.ResultSet\ runQuery(java.lang.String)
+comment2.params=empRec
+comment2.target=int\ addRecord(EmpRec)
+comment3.params=
+comment3.target=void\ close()
+numComments=4

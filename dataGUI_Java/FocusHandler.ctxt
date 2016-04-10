@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=gui
+comment0.target=FocusHandler(AddEmpGUI)
+comment1.params=e
+comment1.target=void\ focusLost(java.awt.event.FocusEvent)
+comment2.params=e
+comment2.target=void\ focusGained(java.awt.event.FocusEvent)
+numComments=3

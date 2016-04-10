@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EmpDataGUI()
+comment1.params=
+comment1.target=void\ getData()
+comment2.params=rs
+comment2.target=void\ showResults(java.sql.ResultSet)
+comment3.params=
+comment3.target=void\ getData2()
+comment4.params=rs2
+comment4.target=void\ showResults2(java.sql.ResultSet)
+comment5.params=selection
+comment5.target=void\ doDelete(java.lang.String)
+comment6.params=
+comment6.target=void\ shutDown()
+numComments=7
